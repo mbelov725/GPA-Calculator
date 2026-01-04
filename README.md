@@ -16,5 +16,5 @@ This project allows users to input course information and calculate GPA based on
 
 ## Future Improvements
 - Implement a separate logic and UI interface
-- Improved input validation and edge case handling
+- Improve input validation and edge case handling
 - Develop a GUI version
